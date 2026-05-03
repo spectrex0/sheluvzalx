@@ -36,6 +36,7 @@
 
 ### Currently Learning (i'll die learning)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cpp](https://img.shields.io/badge/c++-3776AB?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
