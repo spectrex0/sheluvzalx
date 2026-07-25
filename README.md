@@ -34,10 +34,10 @@
 
 ---
 
-### Currently Learning (i'll die learning)
+### Currently Learning
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Cpp](https://img.shields.io/badge/c++-3776AB?style=for-the-badge&logo=c&logoColor=white)
-
+![lua](https://img.shields.io/badge/lua-3776AB?style=for-the-badge&logo=LUA&logoColor=white)
 ---
 
 ### Tools & Platforms
